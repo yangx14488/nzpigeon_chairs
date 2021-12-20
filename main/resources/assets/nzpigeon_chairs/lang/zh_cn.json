@@ -1,0 +1,19 @@
+{
+  "key.sit": "坐下",
+  "msg.nzpigeon_chairs.can_not_sit" : "你不可以坐在这里" ,
+  "msg.nzpigeon_chairs.wrong_pose" : "你此时不能坐下",
+  "msg.nzpigeon_chairs.too_crowded" : "已有其他人或生物坐在这里",
+  "msg.nzpigeon_chairs.ass_cancer" : "患上屁屁癌时，无法坐下",
+  "msg.nzpigeon_chairs.comfortable_butt" : "我拥有这个世界上最舒服的屁屁！",
+
+  "block.nzpigeon_chairs.acacia_log_pieces" : "合金欢木段" ,
+  "block.nzpigeon_chairs.birch_log_pieces" : "白桦木段",
+  "block.nzpigeon_chairs.dark_oak_log_pieces" : "深色橡木段",
+  "block.nzpigeon_chairs.jungle_log_pieces" : "丛林木段",
+  "block.nzpigeon_chairs.oak_log_pieces" : "橡木段",
+  "block.nzpigeon_chairs.spruce_log_pieces" : "云杉木段",
+  "block.nzpigeon_chairs.butt_chair" : "屁屁椅",
+
+  "effect.nzpigeon_chairs.ass_cancer" : "屁屁癌"
+
+}

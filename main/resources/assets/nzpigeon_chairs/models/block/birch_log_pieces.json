@@ -1,0 +1,8 @@
+{
+	"parent": "nzpigeon_chairs:block/oak_log_pieces",
+	"textures": {
+		"0": "block/birch_log",
+		"1": "block/birch_log_top",
+		"particle": "block/birch_log"
+	}
+}

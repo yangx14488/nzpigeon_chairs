@@ -1,0 +1,16 @@
+{
+  "multipart": [
+    { "when": { "facing": "north" } ,
+      "apply": { "model": "nzpigeon_chairs:block/acacia_log_pieces", "y": 0 }
+    } ,
+    { "when": { "facing": "east" } ,
+      "apply": { "model": "nzpigeon_chairs:block/acacia_log_pieces", "y": 90 }
+    } ,
+    { "when": { "facing": "south" } ,
+      "apply": { "model": "nzpigeon_chairs:block/acacia_log_pieces", "y": 180 }
+    } ,
+    { "when": { "facing": "west" } ,
+      "apply": { "model": "nzpigeon_chairs:block/acacia_log_pieces", "y": 270 }
+    }
+  ]
+}

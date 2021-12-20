@@ -1,0 +1,7 @@
+{
+  "chairs_id" : {
+    "minecraft:dark_oak_stairs" : {
+      "sit_pos" : [0.75,0.5,0.5]
+    }
+  }
+}

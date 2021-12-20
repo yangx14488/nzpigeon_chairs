@@ -1,0 +1,19 @@
+{
+  "key.sit": "Sit",
+  "msg.nzpigeon_chairs.can_not_sit" : "You can't sit here" ,
+  "msg.nzpigeon_chairs.wrong_pose" : "You can't sit down at this moment",
+  "msg.nzpigeon_chairs.too_crowded" : "There are other entity or player sitting here",
+  "msg.nzpigeon_chairs.ass_cancer" : "You can't sit down with ass cancer",
+  "msg.nzpigeon_chairs.comfortable_butt" : "I have the most comfortable butt in the world!",
+
+  "block.nzpigeon_chairs.acacia_log_pieces" : "Piece of Acacia Log" ,
+  "block.nzpigeon_chairs.birch_log_pieces" : "Piece of Birch Log",
+  "block.nzpigeon_chairs.dark_oak_log_pieces" : "Piece of Dark Oak Log",
+  "block.nzpigeon_chairs.jungle_log_pieces" : "Piece of Jungle Log",
+  "block.nzpigeon_chairs.oak_log_pieces" : "Piece of Oak Log",
+  "block.nzpigeon_chairs.spruce_log_pieces" : "Piece of Spruce Log",
+  "block.nzpigeon_chairs.butt_chair" : "Butt chair",
+
+  "effect.nzpigeon_chairs.ass_cancer" : "Ass cancer"
+
+}

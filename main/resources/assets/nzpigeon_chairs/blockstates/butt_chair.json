@@ -1,0 +1,16 @@
+{
+  "multipart": [
+    { "when": { "facing": "north" } ,
+      "apply": { "model": "nzpigeon_chairs:block/butt_chair", "y": 0 }
+    } ,
+    { "when": { "facing": "east" } ,
+      "apply": { "model": "nzpigeon_chairs:block/butt_chair", "y": 90 }
+    } ,
+    { "when": { "facing": "south" } ,
+      "apply": { "model": "nzpigeon_chairs:block/butt_chair", "y": 180 }
+    } ,
+    { "when": { "facing": "west" } ,
+      "apply": { "model": "nzpigeon_chairs:block/butt_chair", "y": 270 }
+    }
+  ]
+}
